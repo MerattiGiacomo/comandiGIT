@@ -45,6 +45,13 @@ font-family: 'Shizuru', cursive;
         padding: 8px;
         text-align:center;
     }
+
+    .git-command{
+      color:white;
+        padding: 8px;
+        text-align:center;
+    }
+
     .flex-item:nth-child(even) .git-descr {
         background-color:red;
        
